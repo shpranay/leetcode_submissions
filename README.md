@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/shpranay/leetcode_submissions/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shpranay/leetcode_submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shpranay/leetcode_submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shpranay/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shpranay/leetcode_submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/shpranay/leetcode_submissions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
