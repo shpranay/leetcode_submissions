@@ -1,5 +1,6 @@
 class Solution:
     def combinationSum(self, candidates: list[int], target: int) -> list[list[int]]:
+        candidates.sort()
         ans = []
 
         def dfs(start, target, path):
@@ -7,10 +8,10 @@ class Solution:
                 ans.append(path.copy())
                 return
 
-            if target < 0:
-                return
-
             for i in range(start, len(candidates)):
+                if candidates[i] > target:
+                    break
+
                 path.append(candidates[i])
                 dfs(i, target - candidates[i], path)
                 path.pop()
