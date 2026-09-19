@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shpranay/leetcode_submissions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/shpranay/leetcode_submissions/tree/master/0078-subsets) |
 | [0835-image-overlap](https://github.com/shpranay/leetcode_submissions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shpranay/leetcode_submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shpranay/leetcode_submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -128,4 +129,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shpranay/leetcode_submissions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/shpranay/leetcode_submissions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shpranay/leetcode_submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
