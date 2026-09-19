@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shpranay/leetcode_submissions/tree/master/0039-combination-sum) |
 | [0835-image-overlap](https://github.com/shpranay/leetcode_submissions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shpranay/leetcode_submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shpranay/leetcode_submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shpranay/leetcode_submissions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/shpranay/leetcode_submissions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
