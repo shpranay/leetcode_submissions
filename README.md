@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shpranay/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/shpranay/leetcode_submissions/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/shpranay/leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/shpranay/leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/shpranay/leetcode_submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shpranay/leetcode_submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/shpranay/leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shpranay/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shpranay/leetcode_submissions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/shpranay/leetcode_submissions/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/shpranay/leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shpranay/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shpranay/leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shpranay/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
